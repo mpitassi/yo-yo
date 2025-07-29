@@ -240,8 +240,8 @@ const featuredPublications = featuredSlugs
         Data Analyst, Researcher, Sports Enthusiast
       </h1>
       <p className="mt-5 text-base text-zinc-600 dark:text-zinc-400">
-        Hi! I'm Miles, a data analyst and researcher for sports. I'm currently a Research Scientist Intern for the Chicago Blackhawks,
-        developing models using the NHL's puck and player tracking data.
+Hi! I&apos;m Miles, a data analyst and researcher for sports. I&apos;m currently a Research Scientist Intern for the Chicago Blackhawks,
+developing models using the NHL&apos;s puck and player tracking data.
       </p>
       <div className="mt-4 flex gap-4">
         <SocialLink
