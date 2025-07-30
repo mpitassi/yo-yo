@@ -12,7 +12,8 @@ export const metadata = {
     'Im Miles, a data analyst and researcher for sports. Im currently a Research Scientist Intern for the Chicago Blackhawks, developing models using the NHLs puck and player tracking data.',
   alternates: {
     types: {
-      'application/rss+xml': ${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml,
+      'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
+k
     },
   },
 }
