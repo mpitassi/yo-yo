@@ -39,7 +39,7 @@ function MailIcon(props) {
 export const metadata = {
   title: 'About',
   description:
-    'I’m Spencer Sharp. I live in New York City, where I design the future.',
+    '',
 }
 
 
@@ -72,9 +72,8 @@ During my Master’s in Mathematics, I was advised by <a href="https://cs.uwater
 rel="noopener noreferrer" className="text-teal-500 hover:underline">  
 Tim Brecht</a> and also worked with <a href="https://cs.uwaterloo.ca/~rcohen/" target="_blank"  
 rel="noopener noreferrer" className="text-teal-500 hover:underline">   
-Robin Cohen</a>. Before that, I earned Bachelor’s degrees  
-in Software Engineering and Business (HBA) from Western  
-University (’21).
+Robin Cohen</a>. Before that, 
+I received a Bachelor’s degree in Software Engineering from Western University and an Honours Business Administration (HBA) degree from the Ivey Business School.
             </p>
 
           </div>

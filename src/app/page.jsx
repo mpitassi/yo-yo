@@ -260,7 +260,8 @@ developing models using the NHL&apos;s puck and player tracking data.
 <Container className="mt-4 md:mt-6">
   <div className="mx-auto grid max-w-xl grid-cols-1 gap-y-8 lg:max-w-none lg:grid-cols-2">
     <div className="flex flex-col gap-6">
-      <h2>Featured Publications</h2>
+      <h2 className="text-lg font-bold mb-4 text-zinc-800 dark:text-zinc-100">Featured Publications</h2>
+
       {featuredPublications.map((publication) => (
         <Publication key={publication.slug} publication={publication} />
       ))}
