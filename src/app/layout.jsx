@@ -1,6 +1,5 @@
-app.layout.jsx: import { Providers } from '@/app/providers'
 import { Layout } from '@/components/Layout'
-
+import { Providers } from '@/app/providers'
 import '@/styles/tailwind.css'
 
 export const metadata = {
