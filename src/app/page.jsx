@@ -81,12 +81,9 @@ function ArrowDownIcon(props) {
 function Publication({ publication }) {
   return (
     <Card as="publication">
-      <Card.Title href={`/publications/${publication.slug}`}>
+      <Card.Title href={`/${publication.link}`} target="_blank" rel="noopener noreferrer">
         {publication.title}
       </Card.Title>
-
-
-
       <Card.Description>{publication.description}</Card.Description>
       <Card.Cta>Read publication</Card.Cta>
     </Card>
