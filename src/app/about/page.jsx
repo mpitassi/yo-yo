@@ -64,16 +64,20 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-I focus on team strategy and performance evaluation using the  
-NHL’s puck and player tracking data, while also building  
-tools and pipelines to support future analytics needs. Currently,  
-I’m a Research Scientist Intern with the Chicago Blackhawks.  
-During my Master’s in Mathematics, I was advised by <a href="https://cs.uwaterloo.ca/~brecht/" target="_blank"  
-rel="noopener noreferrer" className="text-teal-500 hover:underline">  
-Tim Brecht</a> and also worked with <a href="https://cs.uwaterloo.ca/~rcohen/" target="_blank"  
-rel="noopener noreferrer" className="text-teal-500 hover:underline">   
-Robin Cohen</a>. Before that, 
-I received a Bachelor’s degree in Software Engineering from Western University and an Honours Business Administration (HBA) degree from the Ivey Business School.
+I focus on team strategy and performance evaluation using the
+NHL’s puck and player tracking data, while also building
+tools and pipelines to support future analytics needs. Currently,
+I’m a Research Scientist Intern with the Chicago Blackhawks.
+
+Before that, I was fortunate to be advised by{' '}
+<a href="https://cs.uwaterloo.ca/~brecht/" target="_blank" rel="noopener noreferrer" className="text-teal-500 hover:underline">Tim Brecht</a>{' '}
+during my Master’s in Mathematics at the{' '}
+<a href="https://cs.uwaterloo.ca" target="_blank" rel="noopener noreferrer" className="text-teal-500 hover:underline">David R. Cheriton School of Computer Science</a>, University of Waterloo.
+
+Prior to my graduate studies, I received a Bachelor’s degree in Software Engineering from{' '}
+<a href="https://www.uwo.ca" target="_blank" rel="noopener noreferrer" className="text-teal-500 hover:underline">Western University</a>{' '}
+and an Honours Business Administration (HBA) degree from the{' '}
+<a href="https://www.ivey.uwo.ca" target="_blank" rel="noopener noreferrer" className="text-teal-500 hover:underline">Ivey Business School</a>.
             </p>
 
           </div>
