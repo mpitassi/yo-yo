@@ -13,7 +13,6 @@ export const metadata = {
   alternates: {
     types: {
       'application/rss+xml': `${process.env.NEXT_PUBLIC_SITE_URL}/feed.xml`,
-k
     },
   },
 }
