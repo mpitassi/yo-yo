@@ -9,7 +9,7 @@ export default function Head() {
       <meta property="og:type" content="website" />
       <meta property="og:title" content="Miles Pitassi" />
       <meta property="og:description" content="Im Miles, a data analyst and researcher for sports. Im currently a Research Scientist Intern for the Chicago Blackhawks, developing models using the NHLs puck and player tracking data." />
-      <meta property="og:image" content="https://opengraph.b-cdn.net/production/images/59950b30-6e9b-40f0-bdb6-b86b0247795f.png?token=5l-mb2BVFr95s40PatNh6pXRhVPzaEpL1mH7Z6YrJuA&height=864&width=1200&expires=33289885252" />
+      <meta property="og:image" content="https://miles-pitassi.com/social-preview.png">
 
       {/* Twitter Meta Tags */}
       <meta name="twitter:card" content="summary_large_image" />
@@ -17,7 +17,7 @@ export default function Head() {
       <meta property="twitter:url" content="https://miles-pitassi.com" />
       <meta name="twitter:title" content="Miles Pitassi" />
       <meta name="twitter:description" content="Im Miles, a data analyst and researcher for sports. Im currently a Research Scientist Intern for the Chicago Blackhawks, developing models using the NHLs puck and player tracking data." />
-      <meta name="twitter:image" content="https://opengraph.b-cdn.net/production/images/59950b30-6e9b-40f0-bdb6-b86b0247795f.png?token=5l-mb2BVFr95s40PatNh6pXRhVPzaEpL1mH7Z6YrJuA&height=864&width=1200&expires=33289885252" />
+      <meta name="twitter:image" content="https://miles-pitassi.com/social-preview.png">
     </>
   );
 }
