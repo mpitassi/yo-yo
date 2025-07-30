@@ -192,28 +192,21 @@ function Resume() {
     ))}
   </ol>
 
-  <div className="flex flex-col gap-2 mt-6">
-      <a
-      href="/Miles_Pitassi_Resume.pdf"
-      download
-      className="group w-full"
-    >
-      <Button variant="secondary" className="w-full">
-        Download Resume
-        <ArrowDownIcon className="h-4 w-4 ml-2 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
-      </Button>
-    </a>
-    <a
-      href="/Miles_Pitassi_CV.pdf"
-      download
-      className="group w-full"
-    >
-      <Button variant="secondary" className="w-full">
-        Download CV
-        <ArrowDownIcon className="h-4 w-4 ml-2 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
-      </Button>
-    </a>
-  </div>
+<div className="flex flex-col gap-2 mt-6">
+  <a href="/Miles_Pitassi_Resume.pdf" className="group w-full">
+    <Button variant="secondary" className="w-full">
+      View Resume
+      <ArrowDownIcon className="h-4 w-4 ml-2 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
+    </Button>
+  </a>
+  <a href="/Miles_Pitassi_CV.pdf" className="group w-full">
+    <Button variant="secondary" className="w-full">
+      View CV
+      <ArrowDownIcon className="h-4 w-4 ml-2 stroke-zinc-400 transition group-active:stroke-zinc-600 dark:group-hover:stroke-zinc-50 dark:group-active:stroke-zinc-50" />
+    </Button>
+  </a>  
+</div>
+
 </div>
 
   )
