@@ -209,7 +209,7 @@ function Resume() {
   )
 }
 
-export default async function Home() {
+export default function Home() {
 const featuredSlugs = [
   'impact-of-traffic-on-shot-attempts',   
   'new-views-of-shots'                 
