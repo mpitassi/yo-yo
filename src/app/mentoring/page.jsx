@@ -15,7 +15,7 @@ import portraitImage from '@/images/portrait.jpg'
 export const metadata = {
   title: 'Other',
   description:
-    'I’m Spencer Sharp. I live in New York City, where I design the future.',
+    '',
 }
 
 
