@@ -66,8 +66,8 @@ export default function About() {
             <p>
 I focus on team strategy and performance evaluation using the
 NHL’s puck and player tracking data, while also building
-tools and pipelines to support future analytics needs. Currently,
-I’m a Research Scientist Intern with the Chicago Blackhawks.
+tools and pipelines to support future analytics needs. 
+Currently, I’m a Research Scientist Intern with the <a href="https://www.nhl.com/blackhawks/" target="_blank" rel="noopener noreferrer" className="text-teal-500 hover:underline">Chicago Blackhawks</a>.
 
 Before that, I was fortunate to be advised by{' '}
 <a href="https://cs.uwaterloo.ca/~brecht/" target="_blank" rel="noopener noreferrer" className="text-teal-500 hover:underline">Tim Brecht</a>{' '}
